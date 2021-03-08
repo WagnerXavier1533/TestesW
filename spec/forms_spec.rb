@@ -8,7 +8,7 @@ describe 'Forms', :forms do
         fill_in 'LogOnModel.Password', with: '1'
 
         click_button 'Entrar'
-        sleep 5
+        sleep 5 
 
     end
 
